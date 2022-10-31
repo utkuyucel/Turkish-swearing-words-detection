@@ -1,4 +1,5 @@
 # Turkish-swearing-words-detection
-# DISCLAIMER: Evaluating the model part contains SWEARING WORDS FOR TESTING CASES. IT MAY BE UNPLEASANT FOR SOME #
+# DISCLAIMER:
+Evaluating the model part involves swearing words for the purpose of testing cases, which may be unpleasant to some people.
+Inputs of evaluation part have been taken from public discord groups.
 
-Inputs of evaluation belongs to a discord group.
